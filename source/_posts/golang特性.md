@@ -185,3 +185,30 @@ channels就是一个管道，分为有缓冲管道和无缓冲管道。
 ### go的锁
 
 **go语言中没有可重入锁机制的存在。**
+
+`sync.Mutex`
+
+`sync.RWMutex`
+
+## go的配置
+
+**GOPATH**
+
+go的依赖，比如go install 或者 go get所获得的包，所存储的位置
+
+**GOCACHE**
+
+go代码build过程中所产生的缓存
+
+**GOENV**
+
+go env的配置所存储的位置
+
+**GOPROXY**
+
+go下载包时的代理地址
+
+**GOROOT**
+
+指定go的安安装位置
+
