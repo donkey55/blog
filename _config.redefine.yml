@@ -199,8 +199,8 @@ navbar:
       icon: fa-regular fa-user
       submenus:
         Me: /about
-        Github: https://github.com/EvanNotFound/hexo-theme-redefine
-        Blog: https://ohevan.com
+        Github: https://github.com/donkey55
+        Blog: https://notes.popla.cc
         Friends: /friends
     # Links:
     #   icon: fa-regular fa-link
